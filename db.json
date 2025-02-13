@@ -1,0 +1,17 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "Mohith Tummala",
+        "email": "mohith@gmail.com",
+        "password": "12345"
+      },
+      {
+        "id": 2,
+        "name": "Sean",
+        "email": "chowdary@gmail.com",
+        "password": "54321"
+      }
+    ]
+  }
+  
