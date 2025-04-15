@@ -1,5 +1,5 @@
 # User-Login-App
-Basic User Login Application (User Auth) using Javascript Promise
+Basic User Login Application (User Auth) using Javascript Promises
 
 <!-- To run db.js -->
 
